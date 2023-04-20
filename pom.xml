@@ -6,10 +6,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.UpdateData.MeteoProjet</groupId>
-  <artifactId>meteo-project</artifactId>
+  <artifactId>MeteoProject</artifactId>
   <version>0.1-SNAPSHOT</version>
 
-  <name>meteo-project</name>
+  <name>MeteoProject</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
